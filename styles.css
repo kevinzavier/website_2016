@@ -296,8 +296,8 @@ html, body {
 }
 
 #about_me{
-  margin-left: 300px;
-  margin-top: 18px;
+  margin-left: 470px;
+  margin-top: 40px;
   color: #ffffff;
   font-size: 17px;
   font-family: 'Karla', sans-serif;
@@ -350,7 +350,7 @@ html, body {
 #profile{
   width: 300px;
   height: auto;
-  margin-left: 60px;
+  margin-left: 140px;
   margin-top: 40px;
 }
 
