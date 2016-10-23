@@ -133,15 +133,15 @@ html, body {
 
 #aboutme{
   height: 550px;
-  margin-top: 1740px; /* 450 + 200 + 630 + 260 + 200 */
+  margin-top: 1290px; /*  + 200 + 630 + 260 + 200 */
   width: 100%;
-  background-color: #f2f2f2;
+  background-color: #344857;
   position: absolute;
 }
 
 #contact{
   height: 650px;
-  margin-top: 2290px; /* 550 + 450 200 + 630 + 260 + 200 */
+  margin-top: 1840px; /* 550 + 450 200 + 630 + 260 + 200 */
   width: 100%;
   background-color: #ffffff;
   position: absolute;
@@ -295,6 +295,15 @@ html, body {
   width: 900px;
 }
 
+#about_me{
+  margin-left: 300px;
+  margin-top: 18px;
+  color: #ffffff;
+  font-size: 17px;
+  font-family: 'Karla', sans-serif;
+  width: 900px;
+}
+
 #tech_skills_header{
   padding: 25px 40px;
   margin-top: 140px;
@@ -319,6 +328,8 @@ html, body {
   margin-top: 30px;
   width: 170px;
   margin-left: 240px; 
+  color: #ffffff;
+  border: 3px solid #ffffff;
 }
 
 #get_in_touch_header{
@@ -339,7 +350,7 @@ html, body {
 #profile{
   width: 300px;
   height: auto;
-  margin-left: 40px;
+  margin-left: 60px;
   margin-top: 40px;
 }
 
