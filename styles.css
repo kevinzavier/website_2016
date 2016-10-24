@@ -362,19 +362,21 @@ html, body {
   margin-left: 140px;
   margin-top: 40px;
   transition: 0.4s ease-in-out;
+  border:5px solid #000000;
 }
 
 #profile:hover{
   background-image: url('images/profilepic.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-   background-position: left;
+  background-position: left;
   width: 300px;
   height: 400px;
   margin-left: 140px;
   margin-top: 40px;
-    transition: 0.4s ease-in-out;
- 
+  transition: 0.4s ease-in-out;
+  border:5px solid #23395B;
+  
 }
 
 #name_input{
