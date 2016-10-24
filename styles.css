@@ -239,6 +239,7 @@ html, body {
   padding: 10px 25px;
   text-transform: uppercase;
   letter-spacing: 0.5px;
+  transition: 0.4s ease-in-out;
 
 }
 .right_half h3:hover{
@@ -397,7 +398,8 @@ html, body {
   letter-spacing: 0.5px;
   display:block;
   margin: auto;
-   margin-top: 30px;
+  margin-top: 30px;
+  transition: 0.4s ease-in-out;
 }
 
 #submit:hover{
@@ -413,7 +415,7 @@ html, body {
   letter-spacing: 0.5px;
   display:block;
   margin: auto;
-    margin-top: 30px;
+  margin-top: 30px;
 }
 
 footer {
@@ -470,7 +472,7 @@ footer .social-media-icons a:first-child:hover i {
 }
 
 footer .social-media-icons a:last-child i {
-   margin-right: 170px;
+ margin-right: 170px;
 }
 
 /*
