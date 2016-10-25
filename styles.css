@@ -302,7 +302,7 @@ html, body {
 
 #about_me{
   margin-left: 400px;
-  margin-top: 40px;
+  margin-top: 5px;
   color: #ffffff;
   font-size: 17px;
   font-family: 'Karla', sans-serif;
@@ -362,7 +362,7 @@ html, body {
   margin-left: 140px;
   margin-top: 40px;
   transition: 0.4s ease-in-out;
-  border:5px solid #000000;
+  border:5px solid #2e2e2e;
 }
 
 #profile:hover{
@@ -375,8 +375,8 @@ html, body {
   margin-left: 140px;
   margin-top: 40px;
   transition: 0.4s ease-in-out;
-  border:5px solid #23395B;
-  
+  border:5px solid #2e2e2e;
+
 }
 
 #name_input{
